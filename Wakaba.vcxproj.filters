@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="bitmap.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="blender.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="converter.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="imagefile.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="layer.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="load_bmp.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="load_jpeg.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="load_png.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="save_bmp.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="save_jpeg.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="save_png.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="layer.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="bitmap.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="blender.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="color.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="converter.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="dllexport.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="exception.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="format_bmp.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="imagefile.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="basetype.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Sources">
+      <UniqueIdentifier>{87d3248b-a9d7-47a7-8a30-3fdfc08e1731}</UniqueIdentifier>
+      <Extensions>cpp</Extensions>
+    </Filter>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{a4356f78-c7ba-4043-83f4-2a9c85d03651}</UniqueIdentifier>
+      <Extensions>h</Extensions>
+    </Filter>
+  </ItemGroup>
+</Project>
